@@ -1,0 +1,14 @@
+D:\C#\chanel\chanel\bin\Debug\net8.0\chanel.exe
+D:\C#\chanel\chanel\bin\Debug\net8.0\chanel.deps.json
+D:\C#\chanel\chanel\bin\Debug\net8.0\chanel.runtimeconfig.json
+D:\C#\chanel\chanel\bin\Debug\net8.0\chanel.dll
+D:\C#\chanel\chanel\bin\Debug\net8.0\chanel.pdb
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.AssemblyInfoInputs.cache
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.AssemblyInfo.cs
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.csproj.CoreCompileInputs.cache
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.dll
+D:\C#\chanel\chanel\obj\Debug\net8.0\refint\chanel.dll
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.pdb
+D:\C#\chanel\chanel\obj\Debug\net8.0\chanel.genruntimeconfig.cache
+D:\C#\chanel\chanel\obj\Debug\net8.0\ref\chanel.dll
